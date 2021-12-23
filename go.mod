@@ -1,4 +1,4 @@
-module github.com/zachomedia/go-bdf
+module github.com/GianUlli/go-bdf
 
 go 1.16
 
